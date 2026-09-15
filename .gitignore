@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Secrets
+.env
+*.env
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
