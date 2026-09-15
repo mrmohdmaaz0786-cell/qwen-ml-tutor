@@ -1,0 +1,9 @@
+torch
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.7.0
+datasets==3.6.0
+trl==0.17.0
+pandas
+scikit-learn
+huggingface_hub
