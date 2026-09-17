@@ -127,7 +127,7 @@ qwen-ml-tutor/
 
 ## Hugging Face Model
 
-`mohd-maaz/qwen-ml-tutor-dpo-final`
+[mohd-maaz/qwen-ml-tutor-dpo-final](https://huggingface.co/mohd-maaz/qwen-ml-tutor-dpo-final)
 
 ## Limitations
 
